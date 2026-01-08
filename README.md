@@ -17,8 +17,7 @@ this is the glowduck PCB! and i'll attach the schema
 
 <img width="1920" height="1200" alt="Screenshot from 2025-12-21 12-46-01" src="https://github.com/user-attachments/assets/ff4468d5-6229-4c62-98c7-6bfd2adb6fb6" />
 
-
-### Bill of Materials (BOM)
+### Bill of Materials for each glowducky (BOM)
 | Component | Specification | Qty |
 | :--- | :--- | :--- |
 | LED | 5mm Warm White Strawhat | 2 |
@@ -27,3 +26,5 @@ this is the glowduck PCB! and i'll attach the schema
 | Battery | CR2032 | 2 |
 | Battery Case | 2x CR2032 Holder | 1 |
 | Wire | AWG 24 & Ribbon Cable | 1 |
+
+*nb: This design is made for minimum quantity (eg: 5 pcs PCB)*
