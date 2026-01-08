@@ -2,6 +2,8 @@
 so this glow glow ducky is a bedlamp, not really..it could be another useful things, for study lamp or when lights out or another cute lamp! 
 i made this bedlamp for my little sister as gift for her achievement in school! she got first place **🐥** and she likes a little yellow duck! 
 *this is my first time working with hardware things!* so i try to make the simplest project, **Lamp ⚡️**.
+
+even in this simplest project i still got so many errors in designing schema..but yeah, trial and error!
 i plan to improve this **glowducky** as soon as i learn about Attiny or Atmel, yeaa and i currently learning about Arduino.
 
 wait i'll attach some pics!
