@@ -27,4 +27,4 @@ this is the glowduck PCB! and i'll attach the schema
 | Battery Case | 2x CR2032 Holder | 1 |
 | Wire | AWG 24 & Ribbon Cable | 1 |
 
-*nb: This design is made for minimum quantity (eg: 5 pcs PCB)*
+*nb: This design is made for minimum quantity (eg: 5 pcs PCB) and some components are not on the pcb (latching button and battery)*
