@@ -34,3 +34,20 @@ so i done the pcb and had searching the components!!! here are things i need:
 2x warm white straw hat 5mm lamp , resistor 10 ohm 1%, 1x latching push button, 2x CR2032 battery with its battery holder, 3d printed duck case and some wires
   
 
+## 1/8/2026 - add some more in github  
+
+_Time spent: 1.0h_  
+
+add BOM in CSV, writing readme, and make case design...i am new to hardware, this is really fun but..hard for me, even there is no code, i still got many errors in wiring and design :( no problem i will learning more..
+
+![gambar](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc4NzAsInB1ciI6ImJsb2JfaWQifX0=--a3328aa38928e4492b876c44ed5da07c51ec8eb5/gambar.png)
+  
+
+## 1/22/2026 - adding more  
+
+_Time spent: 0.3h_  
+
+so after last reviewed, i add BOM table with links and CSV file, also searching for affordable and great components, and make it in a file named "components/BOM.csv" 
+
+![gambar](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzNjYsInB1ciI6ImJsb2JfaWQifX0=--47f6037fee16bab6f23964a62a9d81abc4ba3609/gambar.png)
+  
