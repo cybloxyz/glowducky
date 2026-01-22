@@ -20,13 +20,17 @@ this is the glowduck PCB! and i'll attach the schema
 <img width="1920" height="1200" alt="Screenshot from 2025-12-21 12-46-01" src="https://github.com/user-attachments/assets/ff4468d5-6229-4c62-98c7-6bfd2adb6fb6" />
 
 ### Bill of Materials for each glowducky (BOM)
-| Component | Specification | Qty |
-| :--- | :--- | :--- |
-| LED | 5mm Warm White Strawhat | 2 |
-| Resistor | 330 Ohm | 1 |
-| Switch | Latching Push Button | 1 |
-| Battery | CR2032 | 2 |
-| Battery Case | 2x CR2032 Holder | 1 |
-| Wire | AWG 24 & Ribbon Cable | 1 |
+| Component | Specification | Qty for each lamp | Qty buy | Price | Total Price | 
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| LED | [5mm Warm White Strawhat ](https://shopee.co.id/LED-Warm-White-5mm-Straw-Hat-Clear-Diode-Super-Bright-Round-Through-i.2178321.42170662136?xptdk=b816d7c5-0220-4b61-b76c-9c2c57219d83) | 2 | 10 | Rp.800 | Rp.8000 |
+| Resistor | [330 Ohm](https://shopee.co.id/10X-RESISTOR-330-OHM-1-4W-1-METAL-FILM-i.1078675148.22483412804?xptdk=1b5f20fc-b740-4827-acae-979e2000c763) | 1 | 5 | Rp.700 | Rp.3500 |
+| Switch | [8mmx8mm Latching Push Button](https://shopee.co.id/BLUE-CAP-SQUARE-PUSH-BUTTON-8X8MM-SELF-LOCKING-LATCHING-SWITCH-i.1078675148.17199189956?xptdk=031379d1-bf77-44f0-a31d-17c58174d32c) | 1 | 5 | Rp.1033 | Rp.5165 |
+| Battery | CR2032 | 2 | 1 strip(5pcs) or 2 strip? | Rp.21500 | Rp.21500 |
+| Battery Case | [2x CR2032 Holder](https://shopee.co.id/Baterai-Holder-2X-CR2032-6V-Battery-Case-Tempat-Baterai-Saklar-ON-OFF-i.2178321.24317995442?xptdk=1cde20a7-d5c7-4ba1-88d6-16cacaf16a91) | 1 | 5 | Rp.3600 | Rp.18000 |
+| Wire | [AWG 26](https://shopee.co.id/Kabel-AWG-26-awg26-Serabut-Tembaga-Putih-Eceran-1Meter-Jumper-Cable-i.2178321.7345265115?xptdk=d2c1ef28-a399-42a3-8674-fd6ee5da9c35) | 1 (in meter) | 1 | Rp.1800 | Rp.1800 |
+| Wire | [Jumper cable male-female](https://shopee.co.id/40PCS-JUMPER-CABLE-KABEL-10CM-MALE-TO-FEMALE-DUPONT-FOR-BREADBOARD-i.1078675148.23482811318?extraParams=%7B%22display_model_id%22%3A89453627299%2C%22model_selection_logic%22%3A2%7D&sp_atk=d1c997f7-9c6e-47e8-9971-6b24501d0b91&xptdk=d1c997f7-9c6e-47e8-9971-6b24501d0b91) | 3 | 1 strip(40pcs) | Rp.9500 | Rp.9500 |
+| PCB | [Double layer pcb](https://shopee.co.id/Layanan-Cetak-Pcb-Single-Layer-Dan-Double-Layer-i.100172996.43623177280?xptdk=e2854418-3a2e-4cdc-aff0-7e93d7e86390) | 1 | 5 | Rp.1000 | Rp.5000 |
+| Total | Rp.72465 |
+| Total + shipping cost | Rp.129465 |
 
-*nb: This design is made for minimum quantity (eg: 5 pcs PCB) and some components are not on the pcb (latching button and battery)*
+*nb: Price is in IDR, This design is made for minimum quantity (eg: 5 pcs PCB) and some components are not on the pcb (latching button and battery)*
